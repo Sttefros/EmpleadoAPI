@@ -1,0 +1,44 @@
+## Compiled source #
+###################
+*.dll
+*.exe
+*.pdb
+*.app
+*.cache
+*.config
+*.csproj.user
+*.suo
+*.user
+*.vspscc
+*.vssscc
+
+## Visual Studio files
+######################
+.vscode/
+.vs/
+*.user
+*.sln.docstates
+
+## Build Results
+################
+bin/
+obj/
+
+## Entity Framework
+###################
+Migrations/
+
+## ASP.NET
+##########
+appsettings.Development.json
+appsettings.Local.json
+
+## Others
+#########
+*.db
+*.log
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+*.idea/
